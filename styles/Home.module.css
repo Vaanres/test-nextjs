@@ -20,3 +20,7 @@
   );
   background-size: 15px 15px;
 }
+
+.phong {
+  background-color: red;
+}
