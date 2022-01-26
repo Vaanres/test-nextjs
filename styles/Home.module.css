@@ -2,11 +2,11 @@
   /* background: radial-gradient(circle, #9c27b0, #ff9800); */
   /* background: repeating-conic-gradient(#9c27b0 0 20deg, #ff9800 20deg 40deg); */
 
-  /* background: conic-gradient(
+  background: conic-gradient(
     from 180deg at 50% 50%,
     #ff0032 0deg,
     #fa935e 360deg
-  ); */
+  );
 }
 
 .dot_pattern {
